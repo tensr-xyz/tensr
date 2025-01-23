@@ -1,6 +1,6 @@
 # Tensr
 
-[Tensr](https://tensr.xyz) is a code editor built for programming with AI.
+[Tensr](https://tensr.xyz) is a modern statistical analysis platform.
 
 ## Getting Started
 
